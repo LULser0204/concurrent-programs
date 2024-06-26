@@ -1,0 +1,3 @@
+/home/vision/linux2024/todo_git/concurrent-programs/mutex/mutexshootout-test/build/CMakeFiles/MutexShootout.dir
+/home/vision/linux2024/todo_git/concurrent-programs/mutex/mutexshootout-test/build/CMakeFiles/edit_cache.dir
+/home/vision/linux2024/todo_git/concurrent-programs/mutex/mutexshootout-test/build/CMakeFiles/rebuild_cache.dir
